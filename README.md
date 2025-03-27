@@ -114,7 +114,7 @@ int main() {
 }
 ```
 ## OUTPUT
-![Screenshot 2025-03-27 085100](https://github.com/user-attachments/assets/4e129e1e-dfc7-4775-ba47-95bd13e2e7fc)
+![Screenshot 2025-03-27 084519](https://github.com/user-attachments/assets/ea710ff1-2525-469d-9b48-85fc6ae18f9a)
 
 ## RESULT
 Thus, the above given Hill Cipher program is executed sucessfully.
